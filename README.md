@@ -232,4 +232,4 @@ int main() {
 
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 1048576 has executed with less elapsed time than 1048576 with blocks2.73 ms,116.58 ms.
+Thus, the program has been executed by unrolling by 8 and unrolling by 16.It is observed that unrolling by 16 has executed with less elapsed time than unrolling by 8,with 0.36941 ms and 0.22381 ms, respectively.
